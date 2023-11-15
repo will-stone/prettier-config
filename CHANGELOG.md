@@ -1,5 +1,11 @@
 # @will-stone/prettier-config
 
+## 7.0.2
+
+### Patch Changes
+
+- 36f8fba: Upgrade deps.
+
 ## 7.0.1
 
 ### Patch Changes
