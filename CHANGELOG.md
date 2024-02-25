@@ -1,5 +1,11 @@
 # @will-stone/prettier-config
 
+## 7.0.3
+
+### Patch Changes
+
+- c171142: Updated incorrect repositiory URL.
+
 ## 7.0.2
 
 ### Patch Changes
