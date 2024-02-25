@@ -3,7 +3,7 @@
   "version": "7.0.2",
   "description": "My personal Prettier config",
   "repository": {
-    "url": "https://github.com/will-stone/dx"
+    "url": "https://github.com/will-stone/prettier-config"
   },
   "license": "MIT",
   "author": "Will Stone",
