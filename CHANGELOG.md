@@ -1,5 +1,17 @@
 # Changelog
 
+## [8.0.0](https://github.com/will-stone/prettier-config/compare/v7.0.4...v8.0.0) (2024-04-30)
+
+### Major changes
+
+- Prevent large diffs when adding keys that need quoting
+  ([8497784](https://github.com/will-stone/prettier-config/commit/849778494cddafb5d6efff0555ba35b969647aee))
+
+### Patches
+
+- Trailing commas set to all by default as of Prettier 3
+  ([5a3c452](https://github.com/will-stone/prettier-config/commit/5a3c452d5087a34b10587e4387027abf873e8796))
+
 ## [7.0.4](https://github.com/will-stone/prettier-config/compare/v7.0.3...v7.0.4) (2024-04-30)
 
 ### Patches
