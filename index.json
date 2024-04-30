@@ -2,6 +2,5 @@
   "proseWrap": "always",
   "semi": false,
   "singleQuote": true,
-  "quoteProps": "consistent",
   "plugins": ["prettier-plugin-packagejson"]
 }
