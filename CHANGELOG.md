@@ -1,4 +1,11 @@
-# @will-stone/prettier-config
+# Changelog
+
+## [7.0.4](https://github.com/will-stone/prettier-config/compare/v7.0.3...v7.0.4) (2024-04-30)
+
+### Patches
+
+- Move to Commits With Character and do dummy release
+  ([5483678](https://github.com/will-stone/prettier-config/commit/5483678f455063819a15e96633393b2a5d564976))
 
 ## 7.0.3
 
