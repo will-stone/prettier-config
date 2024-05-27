@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.0.1](https://github.com/will-stone/prettier-config/compare/v8.0.0...v8.0.1) (2024-05-27)
+
+### Patches
+
+- Just testing release
+  ([00b8f48](https://github.com/will-stone/prettier-config/commit/00b8f48db09668d9e0ba1d68164f54d27008c183))
+
 ## [8.0.0](https://github.com/will-stone/prettier-config/compare/v7.0.4...v8.0.0) (2024-04-30)
 
 ### Major changes
