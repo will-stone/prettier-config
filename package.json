@@ -25,10 +25,10 @@
     "prettier-plugin-packagejson": "^2.5.0"
   },
   "devDependencies": {
-    "@commits-with-character/conventional-changelog-preset": "^0.0.3",
+    "@commits-with-character/conventional-changelog-preset": "^0.2.2",
     "@release-it/conventional-changelog": "^8.0.1",
-    "lint-staged": "^15.2.2",
-    "release-it": "^17.2.1",
+    "lint-staged": "^15.2.5",
+    "release-it": "^17.3.0",
     "simple-git-hooks": "^2.11.1"
   },
   "peerDependencies": {
