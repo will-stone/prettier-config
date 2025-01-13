@@ -15,7 +15,7 @@ npm i -D prettier @will-stone/prettier-config
 ```jsonc
 // package.json
 {
-  "prettier": "@will-stone/prettier-config"
+  "prettier": "@will-stone/prettier-config",
 }
 ```
 
