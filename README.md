@@ -12,11 +12,9 @@ npm i -D prettier @will-stone/prettier-config
 
 ### Use config
 
-```jsonc
-// package.json
-{
-  "prettier": "@will-stone/prettier-config",
-}
+```js
+// prettier.config.js (or .mjs if in CJS env)
+export { default } from '@will-stone/prettier-config'
 ```
 
 ### Lint Staged

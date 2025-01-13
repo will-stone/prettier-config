@@ -7,7 +7,8 @@
   },
   "license": "MIT",
   "author": "Will Stone",
-  "main": "index.json",
+  "type": "module",
+  "exports": "./index.js",
   "scripts": {
     "prepare": "simple-git-hooks",
     "release": "release-it"
@@ -20,7 +21,6 @@
       "prettier --write"
     ]
   },
-  "prettier": "./index.json",
   "dependencies": {
     "prettier-plugin-packagejson": "^2.5.0"
   },
