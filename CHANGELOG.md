@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.0.0](https://github.com/will-stone/prettier-config/compare/v8.0.1...v9.0.0) (2025-01-13)
+
+### Major changes
+
+- Move to JS-based config
+  ([961d951](https://github.com/will-stone/prettier-config/commit/961d951e13c0ffc82a67646745a7231694565014))
+
 ## [8.0.1](https://github.com/will-stone/prettier-config/compare/v8.0.0...v8.0.1) (2024-05-27)
 
 ### Patches
