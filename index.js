@@ -1,8 +1,6 @@
-import prettierPluginPackagejson from 'prettier-plugin-packagejson'
-
-export default {
+module.exports = {
   proseWrap: 'always',
   semi: false,
   singleQuote: true,
-  plugins: [prettierPluginPackagejson],
+  plugins: [require.resolve('prettier-plugin-packagejson')],
 }
