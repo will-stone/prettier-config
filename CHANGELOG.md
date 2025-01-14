@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.0.1](https://github.com/will-stone/prettier-config/compare/v9.0.0...v9.0.1) (2025-01-14)
+
+### Patches
+
+- Fix incomparability with pnpm envs
+  ([682f7bd](https://github.com/will-stone/prettier-config/commit/682f7bd93eb077c8d98ab1ce202e3e60ae7a4fb4))
+
 ## [9.0.0](https://github.com/will-stone/prettier-config/compare/v8.0.1...v9.0.0) (2025-01-13)
 
 ### Major changes
