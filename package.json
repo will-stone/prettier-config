@@ -9,11 +9,8 @@
   "author": "Will Stone",
   "main": "./index.js",
   "scripts": {
-    "prepare": "simple-git-hooks",
+    "prepare": "husky",
     "release": "release-it"
-  },
-  "simple-git-hooks": {
-    "pre-commit": "npx --no lint-staged"
   },
   "lint-staged": {
     "*.{json,md}": [
@@ -26,9 +23,9 @@
   "devDependencies": {
     "@commits-with-character/conventional-changelog-preset": "^0.2.2",
     "@release-it/conventional-changelog": "^8.0.1",
+    "husky": "^9.1.7",
     "lint-staged": "^15.2.5",
-    "release-it": "^17.3.0",
-    "simple-git-hooks": "^2.11.1"
+    "release-it": "^17.3.0"
   },
   "peerDependencies": {
     "prettier": "3.x"
