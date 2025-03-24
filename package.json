@@ -21,11 +21,11 @@
     "prettier-plugin-packagejson": "^2.5.0"
   },
   "devDependencies": {
-    "@commits-with-character/conventional-changelog-preset": "^0.2.2",
-    "@release-it/conventional-changelog": "^8.0.1",
+    "@commits-with-character/conventional-changelog-preset": "^2.0.0",
+    "@release-it/conventional-changelog": "^10.0.0",
     "husky": "^9.1.7",
-    "lint-staged": "^15.2.5",
-    "release-it": "^17.3.0"
+    "lint-staged": "^15.5.0",
+    "release-it": "^18.1.2"
   },
   "peerDependencies": {
     "prettier": "3.x"
