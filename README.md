@@ -7,7 +7,7 @@ My personal [Prettier](https://prettier.io) config.
 ### Install
 
 ```bash
-npm i -D prettier @will-stone/prettier-config
+pnpm add -D prettier @will-stone/prettier-config
 ```
 
 ### Use config
@@ -24,9 +24,6 @@ following to your `package.json`:
 
 ```json
 {
-  "scripts": {
-    "prepare": "husky install"
-  },
   "lint-staged": {
     "*.{css,json,md}": ["prettier --write"]
   }
@@ -36,7 +33,7 @@ following to your `package.json`:
 and then
 
 ```bash
-npm i -D husky lint-staged
-npx husky install
-npx husky add .husky/pre-commit "npx --no lint-staged"
+pnpm add -D husky lint-staged
+pnpm husky init
+echo "lint-staged" > .husky/pre-commit
 ```
