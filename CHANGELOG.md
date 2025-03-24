@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.0.2](https://github.com/will-stone/prettier-config/compare/v9.0.1...v9.0.2) (2025-03-24)
+
+### Patches
+
+- Update docs for pnpm and modern Husky
+  ([5faee7d](https://github.com/will-stone/prettier-config/commit/5faee7dc0c0b48ad88531b17837cde4bc2fe15cb))
+
 ## [9.0.1](https://github.com/will-stone/prettier-config/compare/v9.0.0...v9.0.1) (2025-01-14)
 
 ### Patches
