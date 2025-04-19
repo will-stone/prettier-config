@@ -9,10 +9,14 @@
   "author": "Will Stone",
   "main": "./index.js",
   "scripts": {
+    "lint": "eslint .",
     "prepare": "husky",
     "release": "release-it"
   },
   "lint-staged": {
+    "*.js": [
+      "eslint --fix"
+    ],
     "*.{json,md}": [
       "prettier --write"
     ]
@@ -23,6 +27,8 @@
   "devDependencies": {
     "@commits-with-character/conventional-changelog-preset": "^4.0.0",
     "@release-it/conventional-changelog": "^10.0.1",
+    "@will-stone/eslint-config": "^15.1.0",
+    "eslint": "^9.25.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.1",
     "release-it": "^19.0.1"
