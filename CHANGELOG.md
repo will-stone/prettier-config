@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.0.1](https://github.com/will-stone/prettier-config/compare/v11.0.0...v11.0.1) (2025-04-19)
+
+### Patches
+
+- Add repo type
+  ([60b8bca](https://github.com/will-stone/prettier-config/commit/60b8bca84ffe6b37b3273195dca4a47ef58f05a2))
+
 ## [11.0.0](https://github.com/will-stone/prettier-config/compare/v10.0.0...v11.0.0) (2025-04-19)
 
 ### Major changes
