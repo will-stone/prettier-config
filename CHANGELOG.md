@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.0.3](https://github.com/will-stone/prettier-config/compare/v9.0.2...v9.0.3) (2025-04-19)
+
+### Patches
+
+- Upgrade release-it
+  ([1e61dcc](https://github.com/will-stone/prettier-config/commit/1e61dcc8525b33c09ae1be768aea79b98ae88721))
+
 ## [9.0.2](https://github.com/will-stone/prettier-config/compare/v9.0.1...v9.0.2) (2025-03-24)
 
 ### Patches
