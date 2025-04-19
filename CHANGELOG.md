@@ -1,5 +1,12 @@
 # Changelog
 
+## [11.0.0](https://github.com/will-stone/prettier-config/compare/v10.0.0...v11.0.0) (2025-04-19)
+
+### Major changes
+
+- Remove eslint-plugin-package-json
+  ([1892b84](https://github.com/will-stone/prettier-config/commit/1892b84faf8a7b497867efeaac2236d615e22568))
+
 ## [10.0.0](https://github.com/will-stone/prettier-config/compare/v9.0.5...v10.0.0) (2025-04-19)
 
 ### Major changes

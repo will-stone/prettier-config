@@ -1,6 +1,6 @@
 {
   "name": "@will-stone/prettier-config",
-  "version": "10.0.0",
+  "version": "11.0.0",
   "description": "My personal Prettier config",
   "repository": {
     "url": "https://github.com/will-stone/prettier-config"
