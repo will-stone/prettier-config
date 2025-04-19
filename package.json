@@ -36,18 +36,5 @@
   "peerDependencies": {
     "prettier": "3.x"
   },
-  "release-it": {
-    "github": {
-      "release": true
-    },
-    "plugins": {
-      "@release-it/conventional-changelog": {
-        "preset": {
-          "name": "@commits-with-character/preset"
-        },
-        "infile": "CHANGELOG.md",
-        "header": "# Changelog"
-      }
-    }
-  }
+  "packageManager": "pnpm@10.8.1"
 }
