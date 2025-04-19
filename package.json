@@ -7,7 +7,8 @@
   },
   "license": "MIT",
   "author": "Will Stone",
-  "main": "./index.js",
+  "type": "module",
+  "exports": "./index.js",
   "scripts": {
     "lint": "eslint .",
     "prepare": "husky",
