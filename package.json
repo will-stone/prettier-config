@@ -22,9 +22,6 @@
       "prettier --write"
     ]
   },
-  "dependencies": {
-    "prettier-plugin-packagejson": "^2.5.0"
-  },
   "devDependencies": {
     "@commits-with-character/conventional-changelog-preset": "^4.0.0",
     "@release-it/conventional-changelog": "^10.0.1",
