@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.0.0](https://github.com/will-stone/prettier-config/compare/v9.0.5...v10.0.0) (2025-04-19)
+
+### Major changes
+
+- Convert package to ESM
+  ([f296e88](https://github.com/will-stone/prettier-config/commit/f296e883d43ea2b331a29f7109dde45d27fad993))
+
 ## [9.0.5](https://github.com/will-stone/prettier-config/compare/v9.0.3...v9.0.5) (2025-04-19)
 
 ### Patches
