@@ -3,7 +3,8 @@
   "version": "11.0.0",
   "description": "My personal Prettier config",
   "repository": {
-    "url": "https://github.com/will-stone/prettier-config"
+    "type": "git",
+    "url": "git+https://github.com/will-stone/prettier-config.git"
   },
   "license": "MIT",
   "author": "Will Stone",
@@ -25,7 +26,7 @@
   "devDependencies": {
     "@commits-with-character/conventional-changelog-preset": "^4.0.0",
     "@release-it/conventional-changelog": "^10.0.1",
-    "@will-stone/eslint-config": "^15.1.0",
+    "@will-stone/eslint-config": "^16.0.0",
     "eslint": "^9.25.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.1",
