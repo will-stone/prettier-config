@@ -1,5 +1,12 @@
 # Changelog
 
+## [12.0.0](https://github.com/will-stone/prettier-config/compare/v11.0.1...v12.0.0) (2026-02-07)
+
+### Major changes
+
+- Change print width to 100
+  ([5b3af6c](https://github.com/will-stone/prettier-config/commit/5b3af6c35923ec30a1864f0f46e419fe8ba04d9d))
+
 ## [11.0.1](https://github.com/will-stone/prettier-config/compare/v11.0.0...v11.0.1) (2025-04-19)
 
 ### Patches
